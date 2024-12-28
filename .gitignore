@@ -1,0 +1,5 @@
+Data/
+.venv
+.ipynb_checkpoints
+deactivate
+*.swp
